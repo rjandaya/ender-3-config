@@ -32,13 +32,14 @@ fi
 
 # Assign the argument to a variable
 tool_number=$1
+echo "tool_number: $tool_number"
 
 # Check if the input parameter is a valid integer
-if ! [[ $tool_number =~ ^[0-9]+$ ]]
-then
-    echo "Error: Invalid input. Integer required."
-    exit 1
-fi
+#if ! $tool_number =~ ^[0-9]+$
+#then
+#    echo "Error: Invalid input. Integer required."
+#    exit 1
+#fi
 
 # Construct the replacement string
 replace_string="[include tool$tool_number.cfg]"
