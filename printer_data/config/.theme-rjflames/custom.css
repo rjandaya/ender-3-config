@@ -1,0 +1,63 @@
+/* #app.v-application {
+    font-family: system-ui;
+} */
+
+.menu-item-title[data-v-57379e73] {
+    text-transform: lowercase;
+} 
+
+.v-toolbar__title {
+    text-transform: lowercase;
+}
+
+.v-data-table>.v-data-table__wrapper>table {
+    text-transform: lowercase;
+}
+
+.v-tab {
+    text-transform: lowercase;
+}
+
+.v-btn__content {
+    text-transform: lowercase;
+}
+
+.v-tooltip__content {
+    text-transform: lowercase;
+}
+
+.v-application .text-center {;
+    text-transform: lowercase;
+}
+
+.v-menu__content {
+    text-transform: lowercase;
+}
+
+.v-input .v-label {
+    text-transform: lowercase;
+}
+
+.v-subheader {
+    text-transform: lowercase;
+} 
+
+.v-application .text-caption {
+    text-transform: lowercase;
+}
+
+.v-data-table>.v-data-table__wrapper>table>tbody>tr>th, .v-data-table>.v-data-table__wrapper>table>thead>tr>th, .v-data-table>.v-data-table__wrapper>table>tfoot>tr>th {
+    text-transform: lowercase;
+}
+
+.theme--light.v-select.v-text-field--solo-inverted.v-input--is-focused .v-select__selections, .theme--dark.v-select .v-select__selections {
+    text-transform: lowercase;
+}
+
+text {
+    text-transform: lowercase;
+}
+
+.webcamFpsOutput[data-v-95ed22fe] {
+    text-transform: lowercase;
+}
